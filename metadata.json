@@ -1,0 +1,6 @@
+{
+  "name": "Kanban Task Manager",
+  "description": "A recruiter-level SaaS Kanban task management application built with React and localStorage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
